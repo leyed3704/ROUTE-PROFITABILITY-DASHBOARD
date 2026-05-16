@@ -18,12 +18,12 @@ KPI's
   <img width="615" height="344" alt="route profitability dashboard" src="https://github.com/user-attachments/assets/ac53db2f-413d-462c-b06c-746c6b17e6c2" />
   
   ## Project Insight  
--The dashboard shows a very strong overall profit of 197.30M.
--Revenue per mile (2.44) is significantly higher than cost per mile (0.83), indicating efficient operations.
--Cities like Seattle, Charlotte, and Columbus appear to contribute the highest profits.
--Destination states such as OR, CA, and WA generate a large share of total revenue.
+- The dashboard shows a very strong overall profit of 197.30M.
+- Revenue per mile (2.44) is significantly higher than cost per mile (0.83), indicating efficient operations.
+- Cities like Seattle, Charlotte, and Columbus appear to contribute the highest profits.
+- Destination states such as OR, CA, and WA generate a large share of total revenue.
 ## Conclusions
--The business is highly profitable with a healthy profit margin above 66%.
--Route operations are cost-efficient since revenue per mile greatly exceeds cost per mile.
--Focusing on top-performing cities and destination states could further increase profitability.
+- The business is highly profitable with a healthy profit margin above 66%.
+- Route operations are cost-efficient since revenue per mile greatly exceeds cost per mile.
+- Focusing on top-performing cities and destination states could further increase profitability.
   
