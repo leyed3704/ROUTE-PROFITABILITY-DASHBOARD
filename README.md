@@ -16,6 +16,7 @@ KPI's
 - Profit Margin
   ## Dashboard
   <img width="615" height="344" alt="route profitability dashboard" src="https://github.com/user-attachments/assets/ac53db2f-413d-462c-b06c-746c6b17e6c2" />
+  
   ## Project Insight  
 -The dashboard shows a very strong overall profit of 197.30M.
 -Revenue per mile (2.44) is significantly higher than cost per mile (0.83), indicating efficient operations.
